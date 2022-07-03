@@ -1,0 +1,30 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<head>
+    <title>Login</title>
+    <link rel="stylesheet" href="~/css/LoginForm.css" />
+</head>
+<body>
+    <div class="text-center">
+        <h1 class="display-4">Facade pattern</h1>
+    </div>
+    <div class="container">
+        @using (Html.BeginForm(null, null, FormMethod.Post))
+        {
+            <h2>Login Form</h2>
+            <div class="form-group">
+                <label for="">Email id</label>
+                <input name="email" type="text" class="form-control" required />
+            </div>
+            <div class="form-group">
+                <label for="">password</label>
+                <input name="password" type="password" class="form-control" required />
+            </div>
+            <input type="submit" class="btn" value="login" />
+        }
+    </div>
+</body>

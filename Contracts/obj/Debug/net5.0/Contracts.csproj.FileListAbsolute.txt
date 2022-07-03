@@ -1,0 +1,12 @@
+D:\VisualStudioFiles\Patterns\Contracts\bin\Debug\net5.0\Contracts.deps.json
+D:\VisualStudioFiles\Patterns\Contracts\bin\Debug\net5.0\Contracts.dll
+D:\VisualStudioFiles\Patterns\Contracts\bin\Debug\net5.0\ref\Contracts.dll
+D:\VisualStudioFiles\Patterns\Contracts\bin\Debug\net5.0\Contracts.pdb
+D:\VisualStudioFiles\Patterns\Contracts\obj\Debug\net5.0\Contracts.csproj.AssemblyReference.cache
+D:\VisualStudioFiles\Patterns\Contracts\obj\Debug\net5.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioFiles\Patterns\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfoInputs.cache
+D:\VisualStudioFiles\Patterns\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfo.cs
+D:\VisualStudioFiles\Patterns\Contracts\obj\Debug\net5.0\Contracts.csproj.CoreCompileInputs.cache
+D:\VisualStudioFiles\Patterns\Contracts\obj\Debug\net5.0\Contracts.dll
+D:\VisualStudioFiles\Patterns\Contracts\obj\Debug\net5.0\ref\Contracts.dll
+D:\VisualStudioFiles\Patterns\Contracts\obj\Debug\net5.0\Contracts.pdb

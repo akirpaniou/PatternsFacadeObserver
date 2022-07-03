@@ -1,0 +1,12 @@
+D:\VisualStudioFiles\Patterns\AuthorizationComp\bin\Debug\net5.0\AuthorizationComp.deps.json
+D:\VisualStudioFiles\Patterns\AuthorizationComp\bin\Debug\net5.0\AuthorizationComp.dll
+D:\VisualStudioFiles\Patterns\AuthorizationComp\bin\Debug\net5.0\ref\AuthorizationComp.dll
+D:\VisualStudioFiles\Patterns\AuthorizationComp\bin\Debug\net5.0\AuthorizationComp.pdb
+D:\VisualStudioFiles\Patterns\AuthorizationComp\obj\Debug\net5.0\AuthorizationComp.csproj.AssemblyReference.cache
+D:\VisualStudioFiles\Patterns\AuthorizationComp\obj\Debug\net5.0\AuthorizationComp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioFiles\Patterns\AuthorizationComp\obj\Debug\net5.0\AuthorizationComp.AssemblyInfoInputs.cache
+D:\VisualStudioFiles\Patterns\AuthorizationComp\obj\Debug\net5.0\AuthorizationComp.AssemblyInfo.cs
+D:\VisualStudioFiles\Patterns\AuthorizationComp\obj\Debug\net5.0\AuthorizationComp.csproj.CoreCompileInputs.cache
+D:\VisualStudioFiles\Patterns\AuthorizationComp\obj\Debug\net5.0\AuthorizationComp.dll
+D:\VisualStudioFiles\Patterns\AuthorizationComp\obj\Debug\net5.0\ref\AuthorizationComp.dll
+D:\VisualStudioFiles\Patterns\AuthorizationComp\obj\Debug\net5.0\AuthorizationComp.pdb

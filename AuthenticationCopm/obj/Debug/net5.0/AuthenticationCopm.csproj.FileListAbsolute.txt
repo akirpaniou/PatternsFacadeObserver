@@ -1,0 +1,12 @@
+D:\VisualStudioFiles\Patterns\AuthenticationCopm\bin\Debug\net5.0\AuthenticationCopm.deps.json
+D:\VisualStudioFiles\Patterns\AuthenticationCopm\bin\Debug\net5.0\AuthenticationCopm.dll
+D:\VisualStudioFiles\Patterns\AuthenticationCopm\bin\Debug\net5.0\ref\AuthenticationCopm.dll
+D:\VisualStudioFiles\Patterns\AuthenticationCopm\bin\Debug\net5.0\AuthenticationCopm.pdb
+D:\VisualStudioFiles\Patterns\AuthenticationCopm\obj\Debug\net5.0\AuthenticationCopm.csproj.AssemblyReference.cache
+D:\VisualStudioFiles\Patterns\AuthenticationCopm\obj\Debug\net5.0\AuthenticationCopm.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioFiles\Patterns\AuthenticationCopm\obj\Debug\net5.0\AuthenticationCopm.AssemblyInfoInputs.cache
+D:\VisualStudioFiles\Patterns\AuthenticationCopm\obj\Debug\net5.0\AuthenticationCopm.AssemblyInfo.cs
+D:\VisualStudioFiles\Patterns\AuthenticationCopm\obj\Debug\net5.0\AuthenticationCopm.csproj.CoreCompileInputs.cache
+D:\VisualStudioFiles\Patterns\AuthenticationCopm\obj\Debug\net5.0\AuthenticationCopm.dll
+D:\VisualStudioFiles\Patterns\AuthenticationCopm\obj\Debug\net5.0\ref\AuthenticationCopm.dll
+D:\VisualStudioFiles\Patterns\AuthenticationCopm\obj\Debug\net5.0\AuthenticationCopm.pdb

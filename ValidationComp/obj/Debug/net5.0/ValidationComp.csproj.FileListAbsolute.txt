@@ -1,0 +1,12 @@
+D:\VisualStudioFiles\Patterns\ValidationComp\bin\Debug\net5.0\ValidationComp.deps.json
+D:\VisualStudioFiles\Patterns\ValidationComp\bin\Debug\net5.0\ValidationComp.dll
+D:\VisualStudioFiles\Patterns\ValidationComp\bin\Debug\net5.0\ref\ValidationComp.dll
+D:\VisualStudioFiles\Patterns\ValidationComp\bin\Debug\net5.0\ValidationComp.pdb
+D:\VisualStudioFiles\Patterns\ValidationComp\obj\Debug\net5.0\ValidationComp.csproj.AssemblyReference.cache
+D:\VisualStudioFiles\Patterns\ValidationComp\obj\Debug\net5.0\ValidationComp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioFiles\Patterns\ValidationComp\obj\Debug\net5.0\ValidationComp.AssemblyInfoInputs.cache
+D:\VisualStudioFiles\Patterns\ValidationComp\obj\Debug\net5.0\ValidationComp.AssemblyInfo.cs
+D:\VisualStudioFiles\Patterns\ValidationComp\obj\Debug\net5.0\ValidationComp.csproj.CoreCompileInputs.cache
+D:\VisualStudioFiles\Patterns\ValidationComp\obj\Debug\net5.0\ValidationComp.dll
+D:\VisualStudioFiles\Patterns\ValidationComp\obj\Debug\net5.0\ref\ValidationComp.dll
+D:\VisualStudioFiles\Patterns\ValidationComp\obj\Debug\net5.0\ValidationComp.pdb

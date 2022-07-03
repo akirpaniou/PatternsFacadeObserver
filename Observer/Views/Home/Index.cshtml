@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "";
+}
+
+<link rel="stylesheet" href="~/css/StyleObserver.css" />
+
+<body>
+    <h1>Departments</h1>
+    <div class="btn-group">
+        @using (Html.BeginForm("TestersDept", "Home"))
+        {
+            <input type="submit" value="Testers" class="btn" />
+        }
+        @using (Html.BeginForm("Dotnet", "Home"))
+        {
+            <input type="submit" value="Dotnet" class="btn" />
+        }
+        <h1>@ViewBag.Dept</h1>
+
+        @using (Html.BeginForm("EmployeeSeparate", "Home"))
+            {
+                <div class="divclass">
+                    <label for="name" style="font-size:xx-large">Employee Separation</label>
+                    <input type="text" id="lname" name="EmployeeId" placeholder="Employee id.." class="textBox">
+                    <input type="submit" value="Employee Separate" class="submitSep" />
+                </div>
+            }
+    </div>
+</body>

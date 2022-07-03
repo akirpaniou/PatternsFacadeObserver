@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AuthenticationCopm\AuthenticationCopm.csproj" />
+    <ProjectReference Include="..\AuthorizationComp\AuthorizationComp.csproj" />
+    <ProjectReference Include="..\Contracts\Contracts.csproj" />
+    <ProjectReference Include="..\ValidationComp\ValidationComp.csproj" />
+  </ItemGroup>
+
+</Project>

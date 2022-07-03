@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AppFacade/1.0.0": {
+        "dependencies": {
+          "AuthenticationCopm": "1.0.0",
+          "AuthorizationComp": "1.0.0",
+          "Contracts": "1.0.0",
+          "ValidationComp": "1.0.0"
+        },
+        "runtime": {
+          "AppFacade.dll": {}
+        }
+      },
+      "AuthenticationCopm/1.0.0": {
+        "runtime": {
+          "AuthenticationCopm.dll": {}
+        }
+      },
+      "AuthorizationComp/1.0.0": {
+        "runtime": {
+          "AuthorizationComp.dll": {}
+        }
+      },
+      "Contracts/1.0.0": {
+        "runtime": {
+          "Contracts.dll": {}
+        }
+      },
+      "ValidationComp/1.0.0": {
+        "runtime": {
+          "ValidationComp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppFacade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AuthenticationCopm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AuthorizationComp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ValidationComp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
